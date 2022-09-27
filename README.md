@@ -1,2 +1,2 @@
-# MyGit_test
+# Git_test
 My first git test 
